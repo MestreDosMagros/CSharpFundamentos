@@ -1,0 +1,11 @@
+D:\Repositorios\CalculoIMC\CalculoIMC\bin\Debug\netcoreapp3.1\CalculoIMC.exe
+D:\Repositorios\CalculoIMC\CalculoIMC\bin\Debug\netcoreapp3.1\CalculoIMC.deps.json
+D:\Repositorios\CalculoIMC\CalculoIMC\bin\Debug\netcoreapp3.1\CalculoIMC.runtimeconfig.json
+D:\Repositorios\CalculoIMC\CalculoIMC\bin\Debug\netcoreapp3.1\CalculoIMC.runtimeconfig.dev.json
+D:\Repositorios\CalculoIMC\CalculoIMC\bin\Debug\netcoreapp3.1\CalculoIMC.dll
+D:\Repositorios\CalculoIMC\CalculoIMC\bin\Debug\netcoreapp3.1\CalculoIMC.pdb
+D:\Repositorios\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.csprojAssemblyReference.cache
+D:\Repositorios\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.AssemblyInfoInputs.cache
+D:\Repositorios\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.AssemblyInfo.cs
+D:\Repositorios\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.dll
+D:\Repositorios\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.pdb

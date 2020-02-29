@@ -1,0 +1,11 @@
+D:\Repositorios\C# Fundamentos\FuncoesBasicas\FuncoesBasicas\bin\Debug\netcoreapp3.1\FuncoesBasicas.exe
+D:\Repositorios\C# Fundamentos\FuncoesBasicas\FuncoesBasicas\bin\Debug\netcoreapp3.1\FuncoesBasicas.deps.json
+D:\Repositorios\C# Fundamentos\FuncoesBasicas\FuncoesBasicas\bin\Debug\netcoreapp3.1\FuncoesBasicas.runtimeconfig.json
+D:\Repositorios\C# Fundamentos\FuncoesBasicas\FuncoesBasicas\bin\Debug\netcoreapp3.1\FuncoesBasicas.runtimeconfig.dev.json
+D:\Repositorios\C# Fundamentos\FuncoesBasicas\FuncoesBasicas\bin\Debug\netcoreapp3.1\FuncoesBasicas.dll
+D:\Repositorios\C# Fundamentos\FuncoesBasicas\FuncoesBasicas\bin\Debug\netcoreapp3.1\FuncoesBasicas.pdb
+D:\Repositorios\C# Fundamentos\FuncoesBasicas\FuncoesBasicas\obj\Debug\netcoreapp3.1\FuncoesBasicas.csprojAssemblyReference.cache
+D:\Repositorios\C# Fundamentos\FuncoesBasicas\FuncoesBasicas\obj\Debug\netcoreapp3.1\FuncoesBasicas.AssemblyInfoInputs.cache
+D:\Repositorios\C# Fundamentos\FuncoesBasicas\FuncoesBasicas\obj\Debug\netcoreapp3.1\FuncoesBasicas.AssemblyInfo.cs
+D:\Repositorios\C# Fundamentos\FuncoesBasicas\FuncoesBasicas\obj\Debug\netcoreapp3.1\FuncoesBasicas.dll
+D:\Repositorios\C# Fundamentos\FuncoesBasicas\FuncoesBasicas\obj\Debug\netcoreapp3.1\FuncoesBasicas.pdb
