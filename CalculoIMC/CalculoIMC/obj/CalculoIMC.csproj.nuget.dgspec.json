@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositorios\\CalculoIMC\\CalculoIMC\\CalculoIMC.csproj": {}
+    "D:\\Repositorios\\CSharp Fundamentos\\CalculoIMC\\CalculoIMC\\CalculoIMC.csproj": {}
   },
   "projects": {
-    "D:\\Repositorios\\CalculoIMC\\CalculoIMC\\CalculoIMC.csproj": {
+    "D:\\Repositorios\\CSharp Fundamentos\\CalculoIMC\\CalculoIMC\\CalculoIMC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorios\\CalculoIMC\\CalculoIMC\\CalculoIMC.csproj",
+        "projectUniqueName": "D:\\Repositorios\\CSharp Fundamentos\\CalculoIMC\\CalculoIMC\\CalculoIMC.csproj",
         "projectName": "CalculoIMC",
-        "projectPath": "D:\\Repositorios\\CalculoIMC\\CalculoIMC\\CalculoIMC.csproj",
+        "projectPath": "D:\\Repositorios\\CSharp Fundamentos\\CalculoIMC\\CalculoIMC\\CalculoIMC.csproj",
         "packagesPath": "C:\\Users\\daniel\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorios\\CalculoIMC\\CalculoIMC\\obj\\",
+        "outputPath": "D:\\Repositorios\\CSharp Fundamentos\\CalculoIMC\\CalculoIMC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",

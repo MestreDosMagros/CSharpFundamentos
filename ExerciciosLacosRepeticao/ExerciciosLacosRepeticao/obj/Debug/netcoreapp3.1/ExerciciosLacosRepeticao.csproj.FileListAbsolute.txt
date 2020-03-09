@@ -1,0 +1,11 @@
+D:\Repositorios\CSharp Fundamentos\ExerciciosLacosRepeticao\ExerciciosLacosRepeticao\bin\Debug\netcoreapp3.1\ExerciciosLacosRepeticao.exe
+D:\Repositorios\CSharp Fundamentos\ExerciciosLacosRepeticao\ExerciciosLacosRepeticao\bin\Debug\netcoreapp3.1\ExerciciosLacosRepeticao.deps.json
+D:\Repositorios\CSharp Fundamentos\ExerciciosLacosRepeticao\ExerciciosLacosRepeticao\bin\Debug\netcoreapp3.1\ExerciciosLacosRepeticao.runtimeconfig.json
+D:\Repositorios\CSharp Fundamentos\ExerciciosLacosRepeticao\ExerciciosLacosRepeticao\bin\Debug\netcoreapp3.1\ExerciciosLacosRepeticao.runtimeconfig.dev.json
+D:\Repositorios\CSharp Fundamentos\ExerciciosLacosRepeticao\ExerciciosLacosRepeticao\bin\Debug\netcoreapp3.1\ExerciciosLacosRepeticao.dll
+D:\Repositorios\CSharp Fundamentos\ExerciciosLacosRepeticao\ExerciciosLacosRepeticao\bin\Debug\netcoreapp3.1\ExerciciosLacosRepeticao.pdb
+D:\Repositorios\CSharp Fundamentos\ExerciciosLacosRepeticao\ExerciciosLacosRepeticao\obj\Debug\netcoreapp3.1\ExerciciosLacosRepeticao.csprojAssemblyReference.cache
+D:\Repositorios\CSharp Fundamentos\ExerciciosLacosRepeticao\ExerciciosLacosRepeticao\obj\Debug\netcoreapp3.1\ExerciciosLacosRepeticao.AssemblyInfoInputs.cache
+D:\Repositorios\CSharp Fundamentos\ExerciciosLacosRepeticao\ExerciciosLacosRepeticao\obj\Debug\netcoreapp3.1\ExerciciosLacosRepeticao.AssemblyInfo.cs
+D:\Repositorios\CSharp Fundamentos\ExerciciosLacosRepeticao\ExerciciosLacosRepeticao\obj\Debug\netcoreapp3.1\ExerciciosLacosRepeticao.dll
+D:\Repositorios\CSharp Fundamentos\ExerciciosLacosRepeticao\ExerciciosLacosRepeticao\obj\Debug\netcoreapp3.1\ExerciciosLacosRepeticao.pdb

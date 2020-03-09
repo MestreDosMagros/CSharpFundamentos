@@ -18,7 +18,7 @@ namespace FuncoesBasicas
             Console.WriteLine("Telefone formatado: " + FormataTelefone(telefone));
             Console.WriteLine("Raiz quadrada do nome: " + CalculaRaizQuadrada(idade));
             Console.WriteLine("Sem espaços: " + TrocaEspacos(nome));
-
+            
             Console.ReadLine();
         }
 

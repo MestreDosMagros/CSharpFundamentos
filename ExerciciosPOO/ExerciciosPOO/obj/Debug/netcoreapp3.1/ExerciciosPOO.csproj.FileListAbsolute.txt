@@ -1,0 +1,11 @@
+D:\Repositorios\CSharp Fundamentos\ExerciciosPOO\ExerciciosPOO\bin\Debug\netcoreapp3.1\ExerciciosPOO.exe
+D:\Repositorios\CSharp Fundamentos\ExerciciosPOO\ExerciciosPOO\bin\Debug\netcoreapp3.1\ExerciciosPOO.deps.json
+D:\Repositorios\CSharp Fundamentos\ExerciciosPOO\ExerciciosPOO\bin\Debug\netcoreapp3.1\ExerciciosPOO.runtimeconfig.json
+D:\Repositorios\CSharp Fundamentos\ExerciciosPOO\ExerciciosPOO\bin\Debug\netcoreapp3.1\ExerciciosPOO.runtimeconfig.dev.json
+D:\Repositorios\CSharp Fundamentos\ExerciciosPOO\ExerciciosPOO\bin\Debug\netcoreapp3.1\ExerciciosPOO.dll
+D:\Repositorios\CSharp Fundamentos\ExerciciosPOO\ExerciciosPOO\bin\Debug\netcoreapp3.1\ExerciciosPOO.pdb
+D:\Repositorios\CSharp Fundamentos\ExerciciosPOO\ExerciciosPOO\obj\Debug\netcoreapp3.1\ExerciciosPOO.AssemblyInfoInputs.cache
+D:\Repositorios\CSharp Fundamentos\ExerciciosPOO\ExerciciosPOO\obj\Debug\netcoreapp3.1\ExerciciosPOO.AssemblyInfo.cs
+D:\Repositorios\CSharp Fundamentos\ExerciciosPOO\ExerciciosPOO\obj\Debug\netcoreapp3.1\ExerciciosPOO.dll
+D:\Repositorios\CSharp Fundamentos\ExerciciosPOO\ExerciciosPOO\obj\Debug\netcoreapp3.1\ExerciciosPOO.pdb
+D:\Repositorios\CSharp Fundamentos\ExerciciosPOO\ExerciciosPOO\obj\Debug\netcoreapp3.1\ExerciciosPOO.csprojAssemblyReference.cache

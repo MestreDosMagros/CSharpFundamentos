@@ -1,0 +1,11 @@
+D:\Repositorios\CSharp Fundamentos\Condicionais\Condicionais\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.exe
+D:\Repositorios\CSharp Fundamentos\Condicionais\Condicionais\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.deps.json
+D:\Repositorios\CSharp Fundamentos\Condicionais\Condicionais\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.runtimeconfig.json
+D:\Repositorios\CSharp Fundamentos\Condicionais\Condicionais\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.runtimeconfig.dev.json
+D:\Repositorios\CSharp Fundamentos\Condicionais\Condicionais\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.dll
+D:\Repositorios\CSharp Fundamentos\Condicionais\Condicionais\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.pdb
+D:\Repositorios\CSharp Fundamentos\Condicionais\Condicionais\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.csprojAssemblyReference.cache
+D:\Repositorios\CSharp Fundamentos\Condicionais\Condicionais\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.AssemblyInfoInputs.cache
+D:\Repositorios\CSharp Fundamentos\Condicionais\Condicionais\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.AssemblyInfo.cs
+D:\Repositorios\CSharp Fundamentos\Condicionais\Condicionais\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.dll
+D:\Repositorios\CSharp Fundamentos\Condicionais\Condicionais\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.pdb

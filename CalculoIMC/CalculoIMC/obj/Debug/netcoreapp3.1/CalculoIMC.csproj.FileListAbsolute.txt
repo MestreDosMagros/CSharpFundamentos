@@ -9,3 +9,14 @@ D:\Repositorios\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.Assembl
 D:\Repositorios\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.AssemblyInfo.cs
 D:\Repositorios\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.dll
 D:\Repositorios\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.pdb
+D:\Repositorios\CSharp Fundamentos\CalculoIMC\CalculoIMC\bin\Debug\netcoreapp3.1\CalculoIMC.exe
+D:\Repositorios\CSharp Fundamentos\CalculoIMC\CalculoIMC\bin\Debug\netcoreapp3.1\CalculoIMC.deps.json
+D:\Repositorios\CSharp Fundamentos\CalculoIMC\CalculoIMC\bin\Debug\netcoreapp3.1\CalculoIMC.runtimeconfig.json
+D:\Repositorios\CSharp Fundamentos\CalculoIMC\CalculoIMC\bin\Debug\netcoreapp3.1\CalculoIMC.runtimeconfig.dev.json
+D:\Repositorios\CSharp Fundamentos\CalculoIMC\CalculoIMC\bin\Debug\netcoreapp3.1\CalculoIMC.dll
+D:\Repositorios\CSharp Fundamentos\CalculoIMC\CalculoIMC\bin\Debug\netcoreapp3.1\CalculoIMC.pdb
+D:\Repositorios\CSharp Fundamentos\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.csprojAssemblyReference.cache
+D:\Repositorios\CSharp Fundamentos\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.AssemblyInfoInputs.cache
+D:\Repositorios\CSharp Fundamentos\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.AssemblyInfo.cs
+D:\Repositorios\CSharp Fundamentos\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.dll
+D:\Repositorios\CSharp Fundamentos\CalculoIMC\CalculoIMC\obj\Debug\netcoreapp3.1\CalculoIMC.pdb

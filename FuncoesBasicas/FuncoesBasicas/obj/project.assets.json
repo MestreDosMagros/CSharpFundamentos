@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositorios\\C# Fundamentos\\FuncoesBasicas\\FuncoesBasicas\\FuncoesBasicas.csproj",
+      "projectUniqueName": "D:\\Repositorios\\CSharp Fundamentos\\FuncoesBasicas\\FuncoesBasicas\\FuncoesBasicas.csproj",
       "projectName": "FuncoesBasicas",
-      "projectPath": "D:\\Repositorios\\C# Fundamentos\\FuncoesBasicas\\FuncoesBasicas\\FuncoesBasicas.csproj",
+      "projectPath": "D:\\Repositorios\\CSharp Fundamentos\\FuncoesBasicas\\FuncoesBasicas\\FuncoesBasicas.csproj",
       "packagesPath": "C:\\Users\\daniel\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositorios\\C# Fundamentos\\FuncoesBasicas\\FuncoesBasicas\\obj\\",
+      "outputPath": "D:\\Repositorios\\CSharp Fundamentos\\FuncoesBasicas\\FuncoesBasicas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",

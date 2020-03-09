@@ -1,0 +1,11 @@
+D:\Repositorios\CSharp Fundamentos\CSharpPOO\CSharpPOO\bin\Debug\netcoreapp3.1\CSharpPOO.exe
+D:\Repositorios\CSharp Fundamentos\CSharpPOO\CSharpPOO\bin\Debug\netcoreapp3.1\CSharpPOO.deps.json
+D:\Repositorios\CSharp Fundamentos\CSharpPOO\CSharpPOO\bin\Debug\netcoreapp3.1\CSharpPOO.runtimeconfig.json
+D:\Repositorios\CSharp Fundamentos\CSharpPOO\CSharpPOO\bin\Debug\netcoreapp3.1\CSharpPOO.runtimeconfig.dev.json
+D:\Repositorios\CSharp Fundamentos\CSharpPOO\CSharpPOO\bin\Debug\netcoreapp3.1\CSharpPOO.dll
+D:\Repositorios\CSharp Fundamentos\CSharpPOO\CSharpPOO\bin\Debug\netcoreapp3.1\CSharpPOO.pdb
+D:\Repositorios\CSharp Fundamentos\CSharpPOO\CSharpPOO\obj\Debug\netcoreapp3.1\CSharpPOO.AssemblyInfoInputs.cache
+D:\Repositorios\CSharp Fundamentos\CSharpPOO\CSharpPOO\obj\Debug\netcoreapp3.1\CSharpPOO.AssemblyInfo.cs
+D:\Repositorios\CSharp Fundamentos\CSharpPOO\CSharpPOO\obj\Debug\netcoreapp3.1\CSharpPOO.dll
+D:\Repositorios\CSharp Fundamentos\CSharpPOO\CSharpPOO\obj\Debug\netcoreapp3.1\CSharpPOO.pdb
+D:\Repositorios\CSharp Fundamentos\CSharpPOO\CSharpPOO\obj\Debug\netcoreapp3.1\CSharpPOO.csprojAssemblyReference.cache
