@@ -1,0 +1,11 @@
+D:\Repositorios\CSharp Fundamentos\ExerciciosRevisao\ExerciciosRevisao\bin\Debug\netcoreapp3.1\ExerciciosRevisao.exe
+D:\Repositorios\CSharp Fundamentos\ExerciciosRevisao\ExerciciosRevisao\bin\Debug\netcoreapp3.1\ExerciciosRevisao.deps.json
+D:\Repositorios\CSharp Fundamentos\ExerciciosRevisao\ExerciciosRevisao\bin\Debug\netcoreapp3.1\ExerciciosRevisao.runtimeconfig.json
+D:\Repositorios\CSharp Fundamentos\ExerciciosRevisao\ExerciciosRevisao\bin\Debug\netcoreapp3.1\ExerciciosRevisao.runtimeconfig.dev.json
+D:\Repositorios\CSharp Fundamentos\ExerciciosRevisao\ExerciciosRevisao\bin\Debug\netcoreapp3.1\ExerciciosRevisao.dll
+D:\Repositorios\CSharp Fundamentos\ExerciciosRevisao\ExerciciosRevisao\bin\Debug\netcoreapp3.1\ExerciciosRevisao.pdb
+D:\Repositorios\CSharp Fundamentos\ExerciciosRevisao\ExerciciosRevisao\obj\Debug\netcoreapp3.1\ExerciciosRevisao.csprojAssemblyReference.cache
+D:\Repositorios\CSharp Fundamentos\ExerciciosRevisao\ExerciciosRevisao\obj\Debug\netcoreapp3.1\ExerciciosRevisao.AssemblyInfoInputs.cache
+D:\Repositorios\CSharp Fundamentos\ExerciciosRevisao\ExerciciosRevisao\obj\Debug\netcoreapp3.1\ExerciciosRevisao.AssemblyInfo.cs
+D:\Repositorios\CSharp Fundamentos\ExerciciosRevisao\ExerciciosRevisao\obj\Debug\netcoreapp3.1\ExerciciosRevisao.dll
+D:\Repositorios\CSharp Fundamentos\ExerciciosRevisao\ExerciciosRevisao\obj\Debug\netcoreapp3.1\ExerciciosRevisao.pdb

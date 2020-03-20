@@ -1,0 +1,10 @@
+D:\Repositorios\CSharp Fundamentos\TratamentoDeErros\TratamentoDeErros\bin\Debug\netcoreapp3.1\TratamentoDeErros.exe
+D:\Repositorios\CSharp Fundamentos\TratamentoDeErros\TratamentoDeErros\bin\Debug\netcoreapp3.1\TratamentoDeErros.deps.json
+D:\Repositorios\CSharp Fundamentos\TratamentoDeErros\TratamentoDeErros\bin\Debug\netcoreapp3.1\TratamentoDeErros.runtimeconfig.json
+D:\Repositorios\CSharp Fundamentos\TratamentoDeErros\TratamentoDeErros\bin\Debug\netcoreapp3.1\TratamentoDeErros.runtimeconfig.dev.json
+D:\Repositorios\CSharp Fundamentos\TratamentoDeErros\TratamentoDeErros\bin\Debug\netcoreapp3.1\TratamentoDeErros.dll
+D:\Repositorios\CSharp Fundamentos\TratamentoDeErros\TratamentoDeErros\bin\Debug\netcoreapp3.1\TratamentoDeErros.pdb
+D:\Repositorios\CSharp Fundamentos\TratamentoDeErros\TratamentoDeErros\obj\Debug\netcoreapp3.1\TratamentoDeErros.AssemblyInfoInputs.cache
+D:\Repositorios\CSharp Fundamentos\TratamentoDeErros\TratamentoDeErros\obj\Debug\netcoreapp3.1\TratamentoDeErros.AssemblyInfo.cs
+D:\Repositorios\CSharp Fundamentos\TratamentoDeErros\TratamentoDeErros\obj\Debug\netcoreapp3.1\TratamentoDeErros.dll
+D:\Repositorios\CSharp Fundamentos\TratamentoDeErros\TratamentoDeErros\obj\Debug\netcoreapp3.1\TratamentoDeErros.pdb
