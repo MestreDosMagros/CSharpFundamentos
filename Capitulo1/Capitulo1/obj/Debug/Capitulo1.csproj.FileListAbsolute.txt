@@ -1,0 +1,9 @@
+C:\Users\daniel\source\repos\Capitulo1\Capitulo1\bin\Debug\Capitulo1.exe.config
+C:\Users\daniel\source\repos\Capitulo1\Capitulo1\bin\Debug\Capitulo1.exe
+C:\Users\daniel\source\repos\Capitulo1\Capitulo1\bin\Debug\Capitulo1.pdb
+C:\Users\daniel\source\repos\Capitulo1\Capitulo1\obj\Debug\Capitulo1.csprojAssemblyReference.cache
+C:\Users\daniel\source\repos\Capitulo1\Capitulo1\obj\Debug\Capitulo1.MeuForm.resources
+C:\Users\daniel\source\repos\Capitulo1\Capitulo1\obj\Debug\Capitulo1.Properties.Resources.resources
+C:\Users\daniel\source\repos\Capitulo1\Capitulo1\obj\Debug\Capitulo1.csproj.GenerateResource.cache
+C:\Users\daniel\source\repos\Capitulo1\Capitulo1\obj\Debug\Capitulo1.exe
+C:\Users\daniel\source\repos\Capitulo1\Capitulo1\obj\Debug\Capitulo1.pdb

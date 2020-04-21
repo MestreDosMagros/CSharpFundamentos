@@ -1,0 +1,11 @@
+C:\Users\daniel\source\repos\TrabalhandoComTextos\TrabalhandoComTextos\bin\Debug\netcoreapp3.1\TrabalhandoComTextos.exe
+C:\Users\daniel\source\repos\TrabalhandoComTextos\TrabalhandoComTextos\bin\Debug\netcoreapp3.1\TrabalhandoComTextos.deps.json
+C:\Users\daniel\source\repos\TrabalhandoComTextos\TrabalhandoComTextos\bin\Debug\netcoreapp3.1\TrabalhandoComTextos.runtimeconfig.json
+C:\Users\daniel\source\repos\TrabalhandoComTextos\TrabalhandoComTextos\bin\Debug\netcoreapp3.1\TrabalhandoComTextos.runtimeconfig.dev.json
+C:\Users\daniel\source\repos\TrabalhandoComTextos\TrabalhandoComTextos\bin\Debug\netcoreapp3.1\TrabalhandoComTextos.dll
+C:\Users\daniel\source\repos\TrabalhandoComTextos\TrabalhandoComTextos\bin\Debug\netcoreapp3.1\TrabalhandoComTextos.pdb
+C:\Users\daniel\source\repos\TrabalhandoComTextos\TrabalhandoComTextos\obj\Debug\netcoreapp3.1\TrabalhandoComTextos.AssemblyInfoInputs.cache
+C:\Users\daniel\source\repos\TrabalhandoComTextos\TrabalhandoComTextos\obj\Debug\netcoreapp3.1\TrabalhandoComTextos.AssemblyInfo.cs
+C:\Users\daniel\source\repos\TrabalhandoComTextos\TrabalhandoComTextos\obj\Debug\netcoreapp3.1\TrabalhandoComTextos.dll
+C:\Users\daniel\source\repos\TrabalhandoComTextos\TrabalhandoComTextos\obj\Debug\netcoreapp3.1\TrabalhandoComTextos.pdb
+C:\Users\daniel\source\repos\TrabalhandoComTextos\TrabalhandoComTextos\obj\Debug\netcoreapp3.1\TrabalhandoComTextos.csprojAssemblyReference.cache

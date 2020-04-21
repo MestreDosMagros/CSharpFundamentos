@@ -1,0 +1,11 @@
+C:\Users\daniel\source\repos\OrientacaoObjetosExemplo\OrientacaoObjetosExemplo\bin\Debug\netcoreapp3.1\OrientacaoObjetosExemplo.exe
+C:\Users\daniel\source\repos\OrientacaoObjetosExemplo\OrientacaoObjetosExemplo\bin\Debug\netcoreapp3.1\OrientacaoObjetosExemplo.deps.json
+C:\Users\daniel\source\repos\OrientacaoObjetosExemplo\OrientacaoObjetosExemplo\bin\Debug\netcoreapp3.1\OrientacaoObjetosExemplo.runtimeconfig.json
+C:\Users\daniel\source\repos\OrientacaoObjetosExemplo\OrientacaoObjetosExemplo\bin\Debug\netcoreapp3.1\OrientacaoObjetosExemplo.runtimeconfig.dev.json
+C:\Users\daniel\source\repos\OrientacaoObjetosExemplo\OrientacaoObjetosExemplo\bin\Debug\netcoreapp3.1\OrientacaoObjetosExemplo.dll
+C:\Users\daniel\source\repos\OrientacaoObjetosExemplo\OrientacaoObjetosExemplo\bin\Debug\netcoreapp3.1\OrientacaoObjetosExemplo.pdb
+C:\Users\daniel\source\repos\OrientacaoObjetosExemplo\OrientacaoObjetosExemplo\obj\Debug\netcoreapp3.1\OrientacaoObjetosExemplo.csprojAssemblyReference.cache
+C:\Users\daniel\source\repos\OrientacaoObjetosExemplo\OrientacaoObjetosExemplo\obj\Debug\netcoreapp3.1\OrientacaoObjetosExemplo.AssemblyInfoInputs.cache
+C:\Users\daniel\source\repos\OrientacaoObjetosExemplo\OrientacaoObjetosExemplo\obj\Debug\netcoreapp3.1\OrientacaoObjetosExemplo.AssemblyInfo.cs
+C:\Users\daniel\source\repos\OrientacaoObjetosExemplo\OrientacaoObjetosExemplo\obj\Debug\netcoreapp3.1\OrientacaoObjetosExemplo.dll
+C:\Users\daniel\source\repos\OrientacaoObjetosExemplo\OrientacaoObjetosExemplo\obj\Debug\netcoreapp3.1\OrientacaoObjetosExemplo.pdb
